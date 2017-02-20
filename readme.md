@@ -7,9 +7,6 @@ I have update this script;
 HAHAHAHAHAHHAHAHAHA............
 aaliujian6563778
 asdaaaaaaaaaaaaaaaaaaaaaaaaaaa
-<<<<<<< HEAD
 
 ccccccccccccccccccccccc
-=======
 bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb
->>>>>>> test/master
