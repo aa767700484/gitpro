@@ -6,14 +6,3 @@ hello world!this is updated by me on this time;
 I have update this script;
 HAHAHAHAHAHHAHAHAHA............
 aaliujian6563778
-asdaaaaaaaaaaaaaaaaaaaaaaaaaaa
-
-ccccccccccccccccccccccc
-bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb
-asdasdasd
-dsadasdasd
-asdasd
-dsad
-
-dsadasd
-dsadsad
